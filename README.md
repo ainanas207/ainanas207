@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ainanas207
+- 👀 I’m interested in tech in general (Blockchain, AI, IoT)
+- 🌱 I’m currently learning Python and will begin to learn Solidity in few months
+- 📫 How to reach me ...
